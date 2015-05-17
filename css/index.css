@@ -21,8 +21,9 @@ body {
 }
 footer{margin-top:3em;padding:3em 0 4vw 0;font-size:0.7em;}
 footer h4{margin:0;}
-section{padding-bottom:2em;}
-#firearms img{width:100%;max-width:50vw;height:auto;}
+section{margin-bottom:2em;}
+figure{margin-bottom:2em;}
+#firearms img{width:100%;min-width:290px;max-width:50vw;height:auto;}
 #firearms figcaption{font-size:0.7em;font-family:monospace}
 #portrait{width:100%;max-width:60vw;height:auto;}
 #social{font-size:3em;margin-bottom:1em;}
